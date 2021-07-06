@@ -1,0 +1,159 @@
+<movie-list>
+<movie>
+    <heading>
+        <title>The Maltese Falcon zażółć gęślą jaźń</title>
+        <rating>**</rating>
+        <technical-details>
+            <country>US</country>
+            <year>1931</year>
+            <running-time>80 minutes</running-time>
+            <color>bw</color>
+        </technical-details>
+        <production>
+            <studio>Warner</studio>
+        </production>
+    </heading>
+    <synopsis>
+        <para>After the death of his partner, private eye Sam
+        Spade is dragged into a quest for a priceless
+        statuette.</para>
+        <para>Excellent crime melodrama with smart pace and
+        performances. Remade as <ref>Satan Met a Lady</ref>
+        (1936); and see below.</para>
+    </synopsis>
+    <credits>
+        <writer>Maude Fulton, Lucien Hubbard, Brown Holmes
+        from the novel by Dashiell Hammett.</writer>
+        <director>Roy Del Ruth</director>
+        <photography>William Reese</photography>
+        <actors>
+            <actor special="yes" type="lead" gender="M">Ricardo
+                Cortez</actor>,
+            <actor type="lead" gender="F">Bebe
+                Daniels</actor>,
+            <actor type="lead" gender="M" special="yes">Dudley
+                Digges</actor>,
+            <actor gender="M">Dwight Frye</actor>,
+            <actor gender="M">Robert Elliott</actor>,
+            <actor gender="F">Thelma Todd</actor>,
+            and <actor gender="M">Oscar Apfel</actor>.
+        </actors>
+    </credits>
+    <reviews>
+        <review>"The best mystery thriller of the
+        year." <reviewer type="periodical">New York Times</reviewer>
+        </review>
+    </reviews>
+</movie>
+
+<movie>
+    <heading>
+        <title>The Maltese Falcon</title>
+        <rating>****</rating>
+        <technical-details>
+            <country>US</country>
+            <year>1941</year>
+            <running-time>101 minutes</running-time>
+            <color>bw</color>
+        </technical-details>
+        <production>
+            <studio>Warner</studio>
+            <producer>Henry Blanke</producer>
+        </production>
+    </heading>
+    <synopsis>
+        <para>A remake which shows the difference between
+        excellence and brilliance; here every nuance is
+        subtly stressed, and the cast is perfection.</para>
+    </synopsis>
+    <credits>
+        <writer special="yes">John Huston</writer>
+        <director special="yes">John Huston</director>
+        <photography special="yes">Arthur Edeson</photography>
+        <music special="yes">Adolph Deutsch</music>
+        <actors>
+            <actor special="yes" type="lead" gender="M">Humphrey
+                Bogart</actor>,
+            <actor type="lead" gender="F">Mary
+                Astor</actor>,
+            <actor type="lead" gender="M" special="yes">Sidney
+                Greenstreet</actor>,
+            <actor gender="M" special="yes">Elisha Cook Jr.</actor>,
+            <actor gender="M" special="yes">Barton MacLane</actor>,
+            <actor gender="F" special="yes">Lee Patrick</actor>,
+            <actor gender="M" special="yes">Peter Lorre</actor>,
+            <actor gender="F">Gladys George</actor>,
+            <actor gender="M" special="yes">Ward Bond</actor>, and
+            <actor gender="M" special="yes">Jerome Cowan</actor>.
+        </actors>
+    </credits>
+    <reviews>
+        <review>"The first crime melodrama with finish, speed
+        and bang to come along in what seems like ages."
+            <reviewer>Otis Ferguson</reviewer>
+        </review>
+        <review>"A work of entertainment that is yet so skillfully
+        constructed that after many years and many viewings, it
+        has the same brittle explosiveness - and some of the same
+        surprise - that it had in 1941."
+        <reviewer>Pauline Kael, 1968</reviewer>
+        </review>
+    </reviews>
+</movie>
+
+<movie>
+    <heading>
+        <title>Trouble In Paradise</title>
+        <rating>****</rating>
+        <technical-details>
+            <country>US</country>
+            <year>1932</year>
+            <running-time>86 minutes</running-time>
+            <color>bw</color>
+        </technical-details>
+        <production>
+            <studio>Paramount</studio>
+            <producer>Ernst Lubitsch</producer>
+        </production>
+    </heading>
+    <synopsis>
+        <para>Jewel thieves insinuate themselves into the household
+        of a rich Parisienne, and one falls in love with her.</para>
+    </synopsis>
+    <credits>
+        <writer>Samuel Raphaelson, Grover Jones (from play
+        The Honest Finder, by Laszlo Aladar)</writer>
+        <director special="yes">Ernst Lubitsch</director>
+        <photography>Victor Milner</photography>
+        <actors>
+            <actor type="lead" gender="M" special="yes">Herbert
+                Marshall</actor>,
+            <actor type="lead" special="yes" gender="F">Miriam
+                Hopkins</actor>,
+            <actor type="lead" special="yes" gender="F">Kay
+                Francis</actor>,
+            <actor special="yes" gender="M">Edward Everett
+                Horton</actor>,
+            <actor special="yes" gender="M">Charles Ruggles</actor>,
+            <actor gender="M">C. Aubrey Smith</actor>,
+            <actor gender="M">Robert Greig</actor>, and
+            <actor gender="M">Leonid Kinskey</actor>
+        </actors>
+    </credits>
+
+    <reviews>
+        <review>"One of the gossamer creations of Lubitsch's
+        narrative art...it would be impossible in this brief
+        notice to describe the innumerable touches of wit and
+        narrative skill with which it is unfolded."
+            <reviewer>Alexander Bakshy</reviewer>
+        </review>
+
+        <review>"A shimmering, engaging piece of work...in virtually
+        every scene a lively imagination shines forth."
+            <reviewer type="periodical">New York Times</reviewer>
+        </review>
+    </reviews>
+</movie>
+
+</movie-list>
